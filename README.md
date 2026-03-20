@@ -31,19 +31,17 @@
 
 | Category | Tools |
 |---|---|
-| **Languages** | [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/) |
-| **Frameworks** | ![.NET](https://skillicons.dev/icons?i=dotnet) |
-| **Databases** | ![Databases](https://skillicons.dev/icons?i=sqlite,mysql,mongodb) |
-| **IDEs** | ![IDEs](https://skillicons.dev/icons?i=visualstudio,visualstudiocode,cursor) |
-| **Operating System** | ![Windows](https://skillicons.dev/icons?i=windows) |
+| **Languages** | [![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) |
+| **Frameworks** | [![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev) |
+| **Databases** | [![Databases](https://skillicons.dev/icons?i=sqlite,mysql,mongodb)](https://skillicons.dev) |
+| **IDEs** | [![IDEs](https://skillicons.dev/icons?i=visualstudio,visualstudiocode,cursor)](https://skillicons.dev) |
+| **Operating System** | [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) |
 
 ---
 
 ## Learning Goals
 
-![Learning](https://skillicons.dev/icons?i=c,cpp,lua,html,css,js,python,rust)
-&nbsp;
-<img src="https://www.svgrepo.com/show/373445/assembly.svg" width="35" height="35" alt="Assembly" />
+[![Learning](https://skillicons.dev/icons?i=c,cpp,lua,html,css,js,python,rust)](https://skillicons.dev)
 
 ---
 
