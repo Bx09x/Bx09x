@@ -35,7 +35,7 @@
 | **Frameworks** | ![.NET](https://skills.syvixor.com/api/icons?i=dotnet) |
 | **Databases** | ![Databases](https://skills.syvixor.com/api/icons?i=sqlite,mysql,mongodb) |
 | **IDEs** | ![IDEs](https://skills.syvixor.com/api/icons?i=visualstudio,visualstudiocode,cursor) |
-| **OS** | ![Windows](https://skills.syvixor.com/api/icons?i=windows) |
+| **Operating System** | ![Windows](https://skills.syvixor.com/api/icons?i=windows) |
 
 ---
 
