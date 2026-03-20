@@ -41,7 +41,9 @@
 
 ## Learning Goals
 
-![Learning](https://skillicons.dev/icons?i=c,cpp,lua,html,css,js,python,rust,assembly)
+![Learning](https://skillicons.dev/icons?i=c,cpp,lua,html,css,js,python,rust)
+&nbsp;
+<img src="https://www.svgrepo.com/show/373445/assembly.svg" width="35" height="35" alt="Assembly" />
 
 ---
 
