@@ -31,17 +31,17 @@
 
 | Category | Tools |
 |---|---|
-| **Languages** | ![C#](https://skills.syvixor.com/api/icons?i=csharp) |
-| **Frameworks** | ![.NET](https://skills.syvixor.com/api/icons?i=dotnet) |
-| **Databases** | ![Databases](https://skills.syvixor.com/api/icons?i=sqlite,mysql,mongodb) |
-| **IDEs** | ![IDEs](https://skills.syvixor.com/api/icons?i=visualstudio,visualstudiocode,cursor) |
-| **Operating System** | ![Windows](https://skills.syvixor.com/api/icons?i=windows) |
+| **Languages** | ![C#](https://skillicons.dev/icons?i=csharp) |
+| **Frameworks** | ![.NET](https://skillicons.dev/icons?i=dotnet) |
+| **Databases** | ![Databases](https://skillicons.dev/icons?i=sqlite,mysql,mongodb) |
+| **IDEs** | ![IDEs](https://skillicons.dev/icons?i=visualstudio,visualstudiocode,cursor) |
+| **Operating System** | ![Windows](https://skillicons.dev/icons?i=windows) |
 
 ---
 
 ## Learning Goals
 
-![Learning](https://skills.syvixor.com/api/icons?i=c,cpp,lua,html,css,js,python,rust,assembly)
+![Learning](https://skillicons.dev/icons?i=c,cpp,lua,html,css,js,python,rust,assembly)
 
 ---
 
