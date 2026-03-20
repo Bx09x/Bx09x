@@ -31,7 +31,7 @@
 
 | Category | Tools |
 |---|---|
-| **Languages** | ![C#(https://skillicons.dev/icons?i=cs)](https://skillicons.dev) |
+| **Languages** | ![C#](https://skillicons.dev/icons?i=cs)(https://skillicons.dev) |
 | **Frameworks** | ![.NET](https://skillicons.dev/icons?i=dotnet) |
 | **Databases** | ![Databases](https://skillicons.dev/icons?i=sqlite,mysql,mongodb) |
 | **IDEs** | ![IDEs](https://skillicons.dev/icons?i=visualstudio,visualstudiocode,cursor) |
