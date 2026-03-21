@@ -1,6 +1,6 @@
 <div align="center">
 
-# BaltiMew · Bx09
+# Hi, I'm BaltiMew (aka Bx09)
 
 *still learning · professional skid*
 
@@ -32,7 +32,7 @@
 | **Languages** | [![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) |
 | **Frameworks** | [![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev) |
 | **Databases** | [![SQLite · MySQL · MongoDB](https://skillicons.dev/icons?i=sqlite,mysql,mongodb)](https://skillicons.dev) |
-| **IDEs** | [![Visual Studio · VS Code](https://skillicons.dev/icons?i=visualstudio,vsc)](https://skillicons.dev) |
+| **IDEs** | [![Visual Studio · VS Code](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev) |
 | **OS** | [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) |
 
 ---
@@ -56,3 +56,6 @@
 </a>
 
 </div>
+
+##
+shout out to goofyahhsonicfanlol for being a jew
