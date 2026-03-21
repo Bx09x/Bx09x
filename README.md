@@ -33,7 +33,7 @@
 | **Frameworks** | [![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev) |
 | **Databases** | [![SQLite · MySQL · MongoDB](https://skillicons.dev/icons?i=sqlite,mysql,mongodb)](https://skillicons.dev) |
 | **IDEs** | [![Visual Studio · VS Code](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev) |
-| **OS** | [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) |
+| **Operating System** | [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) |
 
 ---
 
