@@ -62,3 +62,6 @@
   <img src="https://lanyard.cnrad.dev/api/1152265765752426506?idleMessage=gooning%20prolly" alt="Discord Presence" />
 </a>
 </div>
+
+##
+shout out to goofyahhsonicfanlol for being a jew
