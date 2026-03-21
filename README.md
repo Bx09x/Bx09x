@@ -41,7 +41,11 @@
 
 ## Learning Goals
 
-[![Learning](https://skillicons.dev/icons?i=c,cpp,lua,html,css,js,python,rust)](https://skillicons.dev)
+[![Goals](https://skillicons.dev/icons?i=c,cpp,lua,html,css,js,python,rust)](https://skillicons.dev)
+
+## Currently Learning
+
+[![Learning](https://skillicons.dev/icons?i=cs,js)](https://skillicons.dev)
 
 ---
 
