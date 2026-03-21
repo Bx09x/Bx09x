@@ -40,8 +40,8 @@
 ## Currently Learning
 
 [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![Lua](https://skillicons.dev/icons?i=lua)](https://lua.org)
+<!--[![Python](https://skillicons.dev/icons?i=python)](https://python.org)-->
+<!--[![Lua](https://skillicons.dev/icons?i=lua)](https://lua.org)-->
 
 ## Goals
 
