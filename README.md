@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi, I'm BaltiMew (aka Bx09)
-
 *still learning · professional skid*
 
 [![Email](https://img.shields.io/badge/Email-Bx099%40proton.me-D14836?style=flat&logo=protonmail&logoColor=white)](mailto:Bx099@proton.me)
@@ -29,34 +28,37 @@
 
 | Category | Tools |
 |---|---|
-| **Languages** | [![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) |
-| **Frameworks** | [![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev) |
-| **Hosts** | [![vercel · netlify](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
-| **Databases** | [![SQLite · MySQL · MongoDB](https://skillicons.dev/icons?i=sqlite,mysql,mongodb)](https://skillicons.dev) |
-| **IDEs** | [![Visual Studio · VS Code](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev) |
-| **Operating System** | [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) |
+| **Languages** | [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/) |
+| **Frameworks** | [![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/) |
+| **Hosts** | [![vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com) [![netlify](https://skillicons.dev/icons?i=netlify)](https://netlify.com) |
+| **Databases** | [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com) |
+| **IDEs** | [![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/) [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) |
+| **Operating System** | [![Windows](https://skillicons.dev/icons?i=windows)](https://microsoft.com/windows) |
 
 ---
 
 ## Currently Learning
 
-[![Learning](https://skillicons.dev/icons?i=cs,python)](https://skillicons.dev)
+[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
 
 ## Goals
 
-[![Goals](https://skillicons.dev/icons?i=c,cpp,lua,html,css,js,python,rust)](https://skillicons.dev)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
+[![Lua](https://skillicons.dev/icons?i=lua)](https://lua.org)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![Rust](https://skillicons.dev/icons?i=rust)](https://rust-lang.org)
 
 ---
 
 ## Discord Presence
 
 <div align="center">
-
 <a href="https://discord.com/users/1152265765752426506">
   <img src="https://lanyard.cnrad.dev/api/1152265765752426506?idleMessage=gooning%20prolly" alt="Discord Presence" />
 </a>
-
 </div>
-
-##
-shout out to goofyahhsonicfanlol for being a jew
