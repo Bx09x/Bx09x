@@ -45,7 +45,7 @@
 
 ## Currently Learning
 
-[![Learning](https://skillicons.dev/icons?i=cs,js)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=cs,python)](https://skillicons.dev)
 
 ---
 
