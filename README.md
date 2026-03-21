@@ -2,7 +2,7 @@
 
 # Hi, I'm BaltiMew (aka Bx09)
 
-<small>shout out to goofyahhsonic fan for being a jew</small>
+<small>shout out to goofyahhsonicfanlol for being a jew</small>
 
 *still learning • professional skid*
 
