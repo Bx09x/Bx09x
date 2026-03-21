@@ -4,8 +4,6 @@
 
 *still learning • professional skid*
 
-"*watch me be a full stack dev frfr*"
-
 [![Email](https://img.shields.io/badge/Email-Bx099%40proton.me-blue)](mailto:Bx099@proton.me)
 [![Discord](https://img.shields.io/badge/Discord-5865f2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1152265765752426506)
 [![Profile Views](https://komarev.com/ghpvc/?username=Bx09x&style=flat)](https://github.com/Bx09x)
