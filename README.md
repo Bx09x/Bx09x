@@ -2,8 +2,6 @@
 
 # Hi, I'm BaltiMew (aka Bx09)
 
-<small>shout out to goofyahhsonicfanlol for being a jew</small>
-
 *still learning • professional skid*
 
 [![Email](https://img.shields.io/badge/Email-Bx099%40proton.me-blue)](mailto:Bx099@proton.me)
@@ -58,3 +56,5 @@
 </a>
 
 </div>
+
+shout out to goofyahhsonicfanlol for being a jew
