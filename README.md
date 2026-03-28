@@ -64,5 +64,12 @@
 </a>
 </div>
 
-##
-shout out to goofyahhsonicfanlol for being a jew
+---
+
+## Support Me!
+
+[![Bitcoin](https://img.shields.io/badge/BTC-Donate-orange?style=flat&logo=bitcoin)](bc1q73vp2mk7ngueqpp3dj2efddupwk0u97sdgp2hd)
+[![Litecoin](https://img.shields.io/badge/LTC-Donate-blue?style=flat&logo=litecoin)](ltc1qdt8peg9acks33nj4nz4hguskc2fhfugdpe7yyy)
+[![USDT](https://img.shields.io/badge/USDT-TRC20-green?style=flat&logo=tether)](0x8CF6BAAABD7414779f50755e6B9802F1a5ABEdDc)
+
+*Donations are appreciated but never expected*
