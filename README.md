@@ -31,7 +31,7 @@
 | **Languages** | [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/) |
 | **Frameworks** | [![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/) |
 | **Hosts** | [![vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com) [![netlify](https://skillicons.dev/icons?i=netlify)](https://netlify.com) |
-| **Databases** | [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com) |
+| **Databases** | [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com) [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com) |
 | **IDEs** | [![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/) [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) |
 | **Operating System** | [![Windows](https://skillicons.dev/icons?i=windows)](https://microsoft.com/windows) |
 
