@@ -40,14 +40,13 @@
 ## Currently Learning
 
 [![Html](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-<!--[![Lua](https://skillicons.dev/icons?i=lua)](https://lua.org)-->
+[![Lua](https://skillicons.dev/icons?i=lua)](https://lua.org)
 
 ## Goals
 
-[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language)) <!--idk why i listed the wiki lmao-->
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
-[![Lua](https://skillicons.dev/icons?i=lua)](https://lua.org)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
