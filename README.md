@@ -28,7 +28,7 @@
 
 | Category | Tools |
 |---|---|
-| **Languages** | [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![SQL](https://skillicons.dev/icons?i=sql)](https://sqlite.org/) | <!--sqlite 💔-->
+| **Languages** | [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/) |
 | **Frameworks** | [![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/) |
 | **Hosts** | [![vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com) [![netlify](https://skillicons.dev/icons?i=netlify)](https://netlify.com) |
 | **Databases** | [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com) [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com) |
