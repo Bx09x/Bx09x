@@ -28,7 +28,7 @@
 
 | Category | Tools |
 |---|---|
-| **Languages** | [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![Html](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) |
+| **Languages** | [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![Html](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) |
 | **Frameworks** | [![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/) |
 | **Hosts** | [![vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com) [![netlify](https://skillicons.dev/icons?i=netlify)](https://netlify.com) |
 | **Databases** | [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com) [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com) |
@@ -40,14 +40,13 @@
 ## Currently Learning
 
 [![Lua](https://skillicons.dev/icons?i=lua)](https://lua.org)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Goals
 
 [![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language)) <!--idk why i listed the wiki lmao-->
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
 [![Rust](https://skillicons.dev/icons?i=rust)](https://rust-lang.org)
 
