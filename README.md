@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hi, I'm BaltiMew :)))
-*still learning · greatest skid oat*
+# Hi, I'm BaltiMew ;^)
+*still learning · greatest script kiddie of all time*
 
 [![Email](https://img.shields.io/badge/Email-Bx099%40proton.me-D14836?style=flat&logo=protonmail&logoColor=white)](mailto:Bx099@proton.me)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1152265765752426506)
