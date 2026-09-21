@@ -44,21 +44,11 @@
 
 ## Goals
 
-[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language)) <!--idk why i listed the wiki lmao-->
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
 [![Rust](https://skillicons.dev/icons?i=rust)](https://rust-lang.org)
-
----
-
-## Discord Presence
-
-<div align="center">
-<a href="https://discord.com/users/1152265765752426506">
-  <img src="https://lanyard.cnrad.dev/api/1152265765752426506?bg=00000000&borderRadius=0&theme=dark" alt="Discord Presence" />
-</a>
-</div>
 
 ---
 
