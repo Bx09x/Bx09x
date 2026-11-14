@@ -6,7 +6,7 @@
 
 ### Environment
 - **OS:** Windows 11
-- **IDE:** VSCodium
+- **IDE:** Visual Studio Code / VSCodium
 
 ### About
 Currently learning Rust.
