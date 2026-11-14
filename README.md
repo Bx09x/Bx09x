@@ -8,7 +8,5 @@
 - **OS:** Windows 11
 - **IDE:** VSCodium
 
-### About Me
-- Currently learning **Rust**
-- Exploring software development with **C#** and **Rust**
-- Always learning and building new things.
+### About
+Currently learning Rust.
